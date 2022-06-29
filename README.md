@@ -1,4 +1,11 @@
 # odin-recipes
-During this project we will try to build a simple website based on the knowledge I have gained until now.
-To build this website I will be using list for the steps and ingredients.
-Create a small description of the dish using textual element and embed an image of the dish
+This project will help me see if i got a firm grip on the following topics which are taught during the curriculum - on the fundamental track - website, which include the following generale subjects:
+ * how to use git and write a git commit message
+ * how to create the basic structure of website - the boilerplate
+ * how to structure and name our files/folders
+ * use of the command line to do some of the required 
+By building the web page, I demonstrated the following skills:
+ * Embedding images into a webpage
+ * Linked to another page from the current page
+ * Added headings to our page
+ * Added a textual description to our page using the paragraph element
