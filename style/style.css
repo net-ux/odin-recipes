@@ -59,15 +59,22 @@ p::first-letter {
 
 /* II. Typography */
 
+/* This indents both the paragraphs and the headings*/
+h1,
+h2,
+h3,
+p {
+    text-indent: 1.2rem;
+}
+
 /* This deals with the heading elements */
 h1,
 h2,
 h3,
 h4 {
     text-align: left;
-    text-indent: 1.2rem;
+ 
 }
-
 
 h1 {
     font-size: 1.6rem;
@@ -79,4 +86,9 @@ h2 {
     font-size: 1.4rem;
     font-style: italic;
     font-weight: lighter;
+}
+
+/* This deals with the paragraphs on the page */
+p {
+    font-size: 1.2rem
 }
