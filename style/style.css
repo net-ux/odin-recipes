@@ -20,3 +20,16 @@ nav ul {
     list-style: none;
 }
 
+/* This changes the whole nav area into a flex container */
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+
+/* 1.2 This deals with the anchor element */
+a {
+    display: inline-block;
+    padding-left: 1rem;
+}
