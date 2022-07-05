@@ -52,8 +52,8 @@ p::first-letter {
     padding-left: .1em;
 }
 
-.quote::first-letter {
-    color:hsl(0, 4%, 9%);
+.qoute::first-letter {
+    color:hsl(261, 88%, 49%);
     padding-left: 1.2em;
 }
 
@@ -101,3 +101,9 @@ ol li {
 }
 
 
+/* III. Utility classes */
+.qoute {
+    font-size: 1.21rem;
+    font-weight: bolder;
+    font-style: italic;
+}
