@@ -72,8 +72,8 @@ h1,
 h2,
 h3,
 h4 {
+   
     text-align: left;
- 
 }
 
 h1 {
@@ -92,3 +92,12 @@ h2 {
 p {
     font-size: 1.2rem
 }
+
+/* This deals with the list elements on the page */
+ul li,
+ol li {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+
