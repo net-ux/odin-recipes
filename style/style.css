@@ -42,3 +42,17 @@ h1 {
 h2 {
     color: hsl(253, 92%, 48%);
 }
+
+/* 1.4 This deals with the paragraphs on the page */
+
+/* This uses a pseudo-element to change how the first character in a
+paragraph looks */
+p::first-letter {
+    color: hsl(345, 100%, 50%);
+    padding-left: .1em;
+}
+
+.quote::first-letter {
+    color:hsl(0, 4%, 9%);
+    padding-left: 1.2em;
+}
