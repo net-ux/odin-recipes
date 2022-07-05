@@ -1,0 +1,22 @@
+/* Generic style */
+
+body {
+    background-color: hsl(0, 10%, 94%);
+    color: hsl(0, 2%, 17%);
+    line-height: 1.7;
+}
+
+/* 1.1 This deals with the navigation of the page */
+
+/* Semantic HTML5 element - represents the navigation of the page */
+nav {
+    margin: .1em .2em;
+    padding: .3em;
+}
+
+/* This targets only the ul elements on the main page  which are nested
+inside the nav element*/
+nav ul {
+    list-style: none;
+}
+
